@@ -1,5 +1,5 @@
 FROM n8nio/n8n:latest
-COPY "My workflow.json" /home/node/
+COPY "My-workflow.json" /home/node/
 COPY Procfile /home/node/
 COPY n8n-init.sh /home/node/
 
