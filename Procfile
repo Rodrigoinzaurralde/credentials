@@ -1,0 +1,1 @@
+web: n8n start --import-workflow=/home/node/My workflow.json
